@@ -20,9 +20,9 @@
         "native_id": "YOUR_PLACEMENT_ID"
       },
       "unity": {
-        "game_id": "5591303",
-        "banner_id": "MyBanner",
-        "interstitial_id": "MyInter",
+        "game_id": "5331426",
+        "banner_id": "bannerHome",
+        "interstitial_id": "Interstitial1",
         "rewarded_id": "Rewarded_Android"
       }
     }
