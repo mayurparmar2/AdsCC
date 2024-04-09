@@ -2,8 +2,8 @@
   "ads": {
     "enable": true,
     "counter": 3,
-    "main_ads": "admob",
-    "backup_ads": "unity",
+    "main_ads": "unity",
+    "backup_ads": "facebook",
     "ads_unit_id": {
       "admob": {
         "publisher_id": "pub-3940256099942544",
