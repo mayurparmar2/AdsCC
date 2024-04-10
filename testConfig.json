@@ -4,7 +4,7 @@
     "counter": 3,
     "policy_link": "",
     "main_ads": "unity",
-    "backup_ads": "facebook",
+    "backup_ads": "admob",
     "ads_unit_id": {
       "admob": {
         "publisher_id": "pub-3940256099942544",
