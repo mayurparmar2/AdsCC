@@ -1,0 +1,32 @@
+
+{
+  "ads": {
+    "enable": true,
+    "counter": 3,
+    "policy_link": "",
+    "main_ads": "unity",
+    "backup_ads": "admob",
+    "ads_unit_id": {
+      "admob": {
+        "publisher_id": "pub-3940256099942544",
+        "app_open_id": "ca-app-pub-3940256099942544/9257395921",
+        "banner_id": "ca-app-pub-3940256099942544/6300978111",
+        "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+        "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+        "native_id": "ca-app-pub-3940256099942544/2247696110"
+      },
+      "facebook": {
+        "banner_id": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+        "interstitial_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "rewarded_id": "YOUR_PLACEMENT_ID",
+        "native_id": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID"
+      },
+      "unity": {
+        "game_id": "3054608",
+        "banner_id": "banner",
+        "interstitial_id": "Interstitial1",
+        "rewarded_id": "Rewarded_Android"
+      }
+    }
+  }
+}
