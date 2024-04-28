@@ -22,7 +22,7 @@
       },
       "unity": {
         "game_id": "5607737",
-        "banner_id": "mybanner",
+        "banner_id": "_mybanner",
         "interstitial_id": "inter1",
         "rewarded_id": "Rewarded_Android"
       }
