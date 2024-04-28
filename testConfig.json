@@ -21,9 +21,9 @@
         "native_id": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID"
       },
       "unity": {
-        "game_id": "3054608",
-        "banner_id": "banner",
-        "interstitial_id": "Interstitial1",
+        "game_id": "5607737",
+        "banner_id": "Banner_Android",
+        "interstitial_id": "inter1",
         "rewarded_id": "Rewarded_Android"
       }
     }
