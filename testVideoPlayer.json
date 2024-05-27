@@ -1,6 +1,6 @@
 {
   "ads": {
-    "enable": true,
+    "enable": false,
     "counter": 3,
     "policy_link": "",
     "main_ads": "unity",
