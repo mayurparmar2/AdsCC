@@ -1,6 +1,6 @@
 {
   "ads": {
-    "enable": true,
+    "enable": false,
     "counter": 3,
     "main_ads": "unity",
     "backup_ads": "facebook",
